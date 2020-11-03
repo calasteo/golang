@@ -12,11 +12,11 @@ This project is a simple version of backend Engineer online test. Main features 
 - Search data by identity type
 - Display usage of Locker
 
-##Run
+## Run
 To run this project , it's required GO installed on your machine. <br>
 ```cd /path-to-project-folder && go run index.go```
 
-##Contact
+## Contact
 This project is so far away from perfec.
 if any suggestion , feel free to contact me at:
 - **[Email](mailto:h.karisma@gmail.com)**
